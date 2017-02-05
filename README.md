@@ -34,7 +34,7 @@ GIMP plug-in must be executable (on Unix).
 Run painter.py on PaintsChainer root.
 
     $ cd $HOME/src/PaintsChainer
-    $ python painter.py
+    $ python cgi-bin/paint_x2_unet/painter.py
     start
     load model
 

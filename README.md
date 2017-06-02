@@ -50,4 +50,4 @@ Select the color hint layer, and run plug-in through menu: Filters/Artistic/_Pai
 [MIT](https://github.com/opaai/PaintsChainer-Gimp/blob/master/LICENSE)
 
 ## Author
-[Parco Opaai](https://github.com/opaai)
+[Parco Opaai](https://github.com/opparco)
